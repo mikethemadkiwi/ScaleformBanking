@@ -1,0 +1,1 @@
+CREATE TABLE `mkcashTransLog` ( `player` TEXT NOT NULL , `reason` TEXT NOT NULL , `amount` INT(14) NOT NULL , `date` TEXT NOT NULL ) ENGINE = InnoDB;
