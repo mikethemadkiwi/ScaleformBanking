@@ -11,7 +11,7 @@ Uses Keyboard, Mouse & Controller navigation, all at once, where previously it d
 removed several transitory items from sitting in objects when they didnt need to.  
 rmeoved need for script to know banking details, functions for inserting both exist at the top of both client and server files.  
   
-Video: [Youtube Preview](https://www.youtube.com/watch?v=eNppfpMXOJY)  
+Video: [Youtube Preview](https://youtu.be/OUmizJ2Dtos)  
   
 FORK AT WILL. CODE SHOULD BE FREE TO ALL.  
 Enjoy. Madkiwi
